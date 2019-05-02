@@ -12,3 +12,5 @@ print(f"Here's your file {filename}:")
 print(txt.read())
 
 # prompt the filename again to be read.
+
+txt.close()
